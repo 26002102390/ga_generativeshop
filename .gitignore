@@ -1,0 +1,21 @@
+# Python仮想環境のディレクトリ
+.venv/
+env/
+venv/
+ENV/
+
+# コンパイル済みのバイナリやキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEの設定ファイル
+.vscode/
+.idea/
+
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# その他のOS関連のファイル
+.DS_Store
+*.swp
