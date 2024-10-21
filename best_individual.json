@@ -1,0 +1,74 @@
+{
+    "shops": [
+        {
+            "x_coordinate": 0,
+            "y_coordinate": 40,
+            "width": 9.606839570587097,
+            "height": 10,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 13.446435967109498,
+            "y_coordinate": 0,
+            "width": 9.5219284227447,
+            "height": 9.630169538874632,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 34.104100901924,
+            "y_coordinate": 39.926439758234835,
+            "width": 7.357174107326365,
+            "height": 8.276209348522348,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 0.011886378227949452,
+            "y_coordinate": 5.347215996377456,
+            "width": 8.291508208371074,
+            "height": 8.075000522502005,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 41.80551213652997,
+            "y_coordinate": 38.98274777459092,
+            "width": 8.194487863470034,
+            "height": 10,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 22.99804587106133,
+            "y_coordinate": 0,
+            "width": 9.150382366427566,
+            "height": 10,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 0,
+            "y_coordinate": 15.270728680961076,
+            "width": 8.640422794488998,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 36.08038363419044,
+            "y_coordinate": 27.539882325068557,
+            "width": 10,
+            "height": 9.654241809413904,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 40.10305100928778,
+            "y_coordinate": 3.1647085517523132,
+            "width": 9.896948990712222,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 20.091598767555233,
+            "y_coordinate": 22.447776357319935,
+            "width": 9.87001199407904,
+            "height": 9.55959235053784,
+            "store_type": "飲食店"
+        }
+    ]
+}
