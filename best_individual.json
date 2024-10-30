@@ -2,72 +2,72 @@
     "shops": [
         {
             "x_coordinate": 0,
-            "y_coordinate": 40,
-            "width": 9.606839570587097,
-            "height": 10,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 13.446435967109498,
-            "y_coordinate": 0,
-            "width": 9.5219284227447,
-            "height": 9.630169538874632,
+            "y_coordinate": 42.918449300383735,
+            "width": 8.114070128864542,
+            "height": 7.081550699616267,
             "store_type": "洋服店"
         },
         {
-            "x_coordinate": 34.104100901924,
-            "y_coordinate": 39.926439758234835,
-            "width": 7.357174107326365,
-            "height": 8.276209348522348,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 0.011886378227949452,
-            "y_coordinate": 5.347215996377456,
-            "width": 8.291508208371074,
-            "height": 8.075000522502005,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 41.80551213652997,
-            "y_coordinate": 38.98274777459092,
-            "width": 8.194487863470034,
-            "height": 10,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 22.99804587106133,
-            "y_coordinate": 0,
-            "width": 9.150382366427566,
-            "height": 10,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 0,
-            "y_coordinate": 15.270728680961076,
-            "width": 8.640422794488998,
-            "height": 10,
+            "x_coordinate": 9.013397471926588,
+            "y_coordinate": 42.022058450579976,
+            "width": 9.004090329574305,
+            "height": 7.977941549420027,
             "store_type": "洋服店"
         },
         {
-            "x_coordinate": 36.08038363419044,
-            "y_coordinate": 27.539882325068557,
+            "x_coordinate": 12.850761961601016,
+            "y_coordinate": 0.2625623712306689,
             "width": 10,
-            "height": 9.654241809413904,
-            "store_type": "洋服店"
-        },
-        {
-            "x_coordinate": 40.10305100928778,
-            "y_coordinate": 3.1647085517523132,
-            "width": 9.896948990712222,
             "height": 10,
             "store_type": "洋服店"
         },
         {
-            "x_coordinate": 20.091598767555233,
-            "y_coordinate": 22.447776357319935,
-            "width": 9.87001199407904,
-            "height": 9.55959235053784,
+            "x_coordinate": 0.2953462856908011,
+            "y_coordinate": 10.884715171719547,
+            "width": 7.861585319565781,
+            "height": 6.13745148842857,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 8.944907390043301,
+            "y_coordinate": 15.119587944124923,
+            "width": 9.964663473057998,
+            "height": 9.219704249289972,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 2.994807068873804,
+            "y_coordinate": 35.81495712495118,
+            "width": 9.788617291374754,
+            "height": 6.049971149650179,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 40,
+            "y_coordinate": 0,
+            "width": 10,
+            "height": 9.155638998045122,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 39.82666401691118,
+            "y_coordinate": 37.619393301899144,
+            "width": 10,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 40.12457443540467,
+            "y_coordinate": 20.287814195590155,
+            "width": 9.875425564595336,
+            "height": 9.731820579578567,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 25.062994700995116,
+            "y_coordinate": 24.620917600789674,
+            "width": 10,
+            "height": 10,
             "store_type": "飲食店"
         }
     ]

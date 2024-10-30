@@ -45,6 +45,7 @@ class Saver:
     def load_from_db(self):
         # ../dbfiles ディレクトリの .db ファイルをリストアップ
         db_files = [f for f in os.listdir(self.db_folder) if f.endswith(".db")]
+        print(db_files)
 
         # .db ファイルがなければメッセージを表示
         if not db_files:

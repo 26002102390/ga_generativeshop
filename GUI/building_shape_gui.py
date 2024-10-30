@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import itertools
 import numpy as np
-from . import polygon_grid_gui
+from GUI.polygon_grid_gui import PolygonGridApp
 
 class BuildingShapeGUI:
     def __init__(self, root):
@@ -134,7 +134,9 @@ class BuildingShapeGUI:
             # self.canvas.create_polygon(diagonal_segments, fill="purple", outline="black", width=3)
             # print(f"Outer polygon: {diagonal_segments}")
             new_window = tk.Tk()
-            app = polygon_grid_gui.PolygonGridApp(new_window, diagonal_segments)
+            new_window.config(bg="grey")
+            app = PolygonGridApp(new_window, diagonal_segments)
+            app.canvas.config(bg="grey")
             new_window.mainloop()
         self.update_button_state()
 

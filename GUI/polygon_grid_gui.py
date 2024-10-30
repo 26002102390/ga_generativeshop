@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import Canvas, messagebox
-from polygon_saver import Saver  # saver.pyのSaverクラスをインポート
+from GUI.polygon_saver import Saver  # saver.pyのSaverクラスをインポート
 
 outer_polygon = [
     (75, 46), (210, 46), (357, 48), (357, 121),
@@ -99,7 +99,7 @@ class PolygonGridApp:
         # 全ボタンをデフォルトの色に戻し、選択中のボタンだけハイライト
         for button in self.color_buttons:
             button.config(highlightbackground="gray")  # デフォルト色に戻す
-        active_button.config(highlightbackground="lightblue")  # 選択中のボタンをハイライト
+        active_button.config(highlightbackground=self.fill_colors[self.current_color_index])  # 選択中のボタンをハイライト
 
     def change_color_blue(self):
         self.current_color_index = 2
