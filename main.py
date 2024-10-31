@@ -45,9 +45,11 @@ class MainMenu:
         new_window.mainloop()
 
     def open_edit_screen(self):
+        self.app = GUI.polygon_grid_gui.PolygonGridApp(root, GUI.polygon_grid_gui.outer_polygon)
+        self.saver = GUI.polygon_saver.Saver(self.app)
         # 「編集する」ボタンでデータをロード
         try:
-            GUI.polygon_saver.Saver.load_from_db(self.root)
+            GUI.polygon_saver.Saver.load_from_db(self.saver)
         except AttributeError:
             messagebox.showerror("Error", "ロードに失敗しました。")
 
