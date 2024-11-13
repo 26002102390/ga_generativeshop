@@ -1,74 +1,74 @@
 {
     "shops": [
         {
+            "x_coordinate": 41.583385669875966,
+            "y_coordinate": 39.99573704053755,
+            "width": 7.708852253642882,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
             "x_coordinate": 0,
-            "y_coordinate": 42.918449300383735,
-            "width": 8.114070128864542,
-            "height": 7.081550699616267,
-            "store_type": "洋服店"
+            "y_coordinate": 40.63555866013208,
+            "width": 9.51263799707086,
+            "height": 8.944928067768858,
+            "store_type": "ゲームセンター"
         },
         {
-            "x_coordinate": 9.013397471926588,
-            "y_coordinate": 42.022058450579976,
-            "width": 9.004090329574305,
-            "height": 7.977941549420027,
-            "store_type": "洋服店"
-        },
-        {
-            "x_coordinate": 12.850761961601016,
-            "y_coordinate": 0.2625623712306689,
+            "x_coordinate": 27.682593059845246,
+            "y_coordinate": 0.04729731079986563,
             "width": 10,
             "height": 10,
             "store_type": "洋服店"
         },
         {
-            "x_coordinate": 0.2953462856908011,
-            "y_coordinate": 10.884715171719547,
-            "width": 7.861585319565781,
-            "height": 6.13745148842857,
-            "store_type": "飲食店"
+            "x_coordinate": 14.481138630931891,
+            "y_coordinate": 41.16489900979436,
+            "width": 9.706417084629086,
+            "height": 6.795773770546092,
+            "store_type": "洋服店"
         },
         {
-            "x_coordinate": 8.944907390043301,
-            "y_coordinate": 15.119587944124923,
-            "width": 9.964663473057998,
-            "height": 9.219704249289972,
-            "store_type": "飲食店"
-        },
-        {
-            "x_coordinate": 2.994807068873804,
-            "y_coordinate": 35.81495712495118,
-            "width": 9.788617291374754,
-            "height": 6.049971149650179,
+            "x_coordinate": 29.237935881762006,
+            "y_coordinate": 21.796431211140366,
+            "width": 9.996167003003702,
+            "height": 10,
             "store_type": "飲食店"
         },
         {
             "x_coordinate": 40,
-            "y_coordinate": 0,
+            "y_coordinate": 0.975203618616611,
             "width": 10,
-            "height": 9.155638998045122,
-            "store_type": "洋服店"
-        },
-        {
-            "x_coordinate": 39.82666401691118,
-            "y_coordinate": 37.619393301899144,
-            "width": 10,
-            "height": 10,
-            "store_type": "洋服店"
-        },
-        {
-            "x_coordinate": 40.12457443540467,
-            "y_coordinate": 20.287814195590155,
-            "width": 9.875425564595336,
-            "height": 9.731820579578567,
-            "store_type": "洋服店"
-        },
-        {
-            "x_coordinate": 25.062994700995116,
-            "y_coordinate": 24.620917600789674,
-            "width": 10,
-            "height": 10,
+            "height": 9.990285078964634,
             "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 0.38766145545984004,
+            "y_coordinate": 29.309194584332307,
+            "width": 10,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 32.45690110402736,
+            "y_coordinate": 40.344648447250094,
+            "width": 8.338728253587924,
+            "height": 9.655351552749906,
+            "store_type": "飲食店"
+        },
+        {
+            "x_coordinate": 25.536428044218777,
+            "y_coordinate": 10.640710057937019,
+            "width": 8.627839809667586,
+            "height": 10,
+            "store_type": "洋服店"
+        },
+        {
+            "x_coordinate": 0.37014281087142864,
+            "y_coordinate": 0.5301615084422528,
+            "width": 10,
+            "height": 9.937279561556222,
+            "store_type": "洋服店"
         }
     ]
 }
